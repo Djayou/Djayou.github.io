@@ -1,4 +1,4 @@
-baseURL: ""
+baseURL: "https://djayou.github.io/"
 languageCode: fr-fr
 title: Hugo Demo Site
 theme: PaperMod
