@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>html on Hugo Demo Site</title>
+    <link>/tags/html/</link>
+    <description>Recent content in html on Hugo Demo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>fr-fr</language>
+    <lastBuildDate>Mon, 25 Jul 2022 20:29:51 +0200</lastBuildDate><atom:link href="/tags/html/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>First</title>
+      <link>/posts/first/</link>
+      <pubDate>Mon, 25 Jul 2022 20:29:51 +0200</pubDate>
+      
+      <guid>/posts/first/</guid>
+      <description>Titre principal h1 Titre secondaire h2 Paragraphe de texte.</description>
+    </item>
+    
+  </channel>
+</rss>
