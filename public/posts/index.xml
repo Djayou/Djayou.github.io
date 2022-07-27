@@ -2,26 +2,26 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Posts on Hugo Demo Site</title>
-    <link>/posts/</link>
+    <link>https://djayou.github.io/posts/</link>
     <description>Recent content in Posts on Hugo Demo Site</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr-fr</language>
-    <lastBuildDate>Mon, 25 Jul 2022 20:29:51 +0200</lastBuildDate><atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 25 Jul 2022 20:29:51 +0200</lastBuildDate><atom:link href="https://djayou.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>First</title>
-      <link>/posts/first/</link>
+      <link>https://djayou.github.io/posts/first/</link>
       <pubDate>Mon, 25 Jul 2022 20:29:51 +0200</pubDate>
       
-      <guid>/posts/first/</guid>
+      <guid>https://djayou.github.io/posts/first/</guid>
       <description>Titre principal h1 Titre secondaire h2 Paragraphe de texte.</description>
     </item>
     
     <item>
       <title>Second</title>
-      <link>/posts/second/</link>
+      <link>https://djayou.github.io/posts/second/</link>
       <pubDate>Mon, 25 Jul 2022 20:29:51 +0200</pubDate>
       
-      <guid>/posts/second/</guid>
+      <guid>https://djayou.github.io/posts/second/</guid>
       <description>Second article</description>
     </item>
     
