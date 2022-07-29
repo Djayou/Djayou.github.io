@@ -12,6 +12,6 @@ categories: ["tech"]
 
 # Titre principal h1{.titre1}
 
-## Titre secondaire h2
+## Titre secondaire h2{.titre2}
 
 Paragraphe de texte.
