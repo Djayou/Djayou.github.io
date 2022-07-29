@@ -10,7 +10,7 @@ tags: ["html", "css"]
 categories: ["tech"]
 ---
 
-# Titre principal h1
+# Titre principal h1{.titre1}
 
 ## Titre secondaire h2
 
