@@ -6,6 +6,7 @@ cover:
     image: img/MJ.jpg
     alt: 'Image du post 1'
     caption: 'Caption du post 1'
+    css: '.image'
 tags: ["html", "css"]
 categories: ["tech"]
 ---
